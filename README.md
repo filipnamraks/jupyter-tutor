@@ -10,7 +10,7 @@ Built for students learning Python. It reads your notebook, so answers are about
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/jupyter-tutor
+git clone https://github.com/filipnamraks/jupyter-tutor
 cd jupyter-tutor
 ./install.sh ~/path/to/your/notebooks
 ```
